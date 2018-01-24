@@ -1,0 +1,63 @@
+.navbar {
+    overflow: hidden;
+    background-color: #07889B;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+ 
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EEAA7B;
+}
+
+.main {
+    margin-top: 60px; /* Add a top margin to avoid content overlay */
+}
+#title {
+    font-size: 50px;
+}
+
+.pictures{
+    width: 600px;
+}
+
+body {
+    background-color: #66B9BF;
+    color: #FFFFFF;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-family:fantasy;
+}
+
+h2 {
+    color: #333300;
+    text-align: center;
+    font: 200% fantasy;
+    text-decoration: underline;
+}
+
+p {
+    background-color: #EEAA7B;
+    color: #333300;
+    text-align: left;
+    font-family:sans-serif;
+    border: 4px outset #EEAA7B;
+}
+.main ol {
+    background-color: #EEAA7B;
+    color: #333300;
+}
+
+
