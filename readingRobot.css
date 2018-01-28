@@ -1,6 +1,6 @@
 .navbar {
     overflow: hidden;
-    background-color: #07889B;
+    background-color: #B3EFFF;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
@@ -9,10 +9,11 @@
 .navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #1C304A;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family:"Comic Sans MS", cursive, sans-serif;
 }
 
 a:hover {
@@ -31,28 +32,28 @@ a:hover {
 }
 
 body {
-    background-color: #66B9BF;
-    color: #FFFFFF;
+    background-color: #00CFFF;
+    color: #1C304A;
 }
 
 h1 {
-    color:black;
+    color:#1C304A;
     text-align: center;
-    font-family:fantasy;
+    font-family:"Comic Sans MS", cursive, sans-serif;
 }
 
 h2 {
-    color: #333300;
+    color:#1C304A;
     text-align: center;
-    font: 200% fantasy;
+    font-family:"Comic Sans MS", cursive, sans-serif;
     text-decoration: underline;
 }
 
 p {
-    background-color: #EEAA7B;
-    color: #333300;
+    background-color: #B3EFFF;
+    color: #1C304A;
     text-align: left;
-    font-family:sans-serif;
+    font-family:"Comic Sans MS", cursive, sans-serif;
     border: 4px outset #EEAA7B;
 }
 .main ol {
