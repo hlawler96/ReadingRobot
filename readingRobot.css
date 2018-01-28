@@ -27,6 +27,13 @@ a:hover {
     font-size: 50px;
 }
 
+img {
+    margin: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .pictures{ 
     width: 600px;
 }
@@ -35,7 +42,6 @@ body {
     background-color: #00CFFF;
     color: #1C304A;
 }
-
 h1 {
     color:#1C304A;
     text-align: center;
@@ -54,12 +60,15 @@ p {
     color: #1C304A;
     text-align: left;
     font-family:"Comic Sans MS", cursive, sans-serif;
-    border: 4px outset #B3EFFF;
+    
 }
 .main ol {
     background-color: #B3EFFF;
     color: #333300;
-     border: 4px outset #B3EFFF;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+}
+section {
+    background-color: #B3EFFF;
 }
 
 
